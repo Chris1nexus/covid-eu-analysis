@@ -1,0 +1,23 @@
+,model_name,feature,coefficient
+0,svm,air passengers,1.7961060029809879
+1,svm,GDP,5.657345450227215
+2,svm,farm labour force,-2.139081145094399
+3,svm,deaths,0.3639808849352688
+4,svm,hosp discharges resp diseases,1.1960753049548138
+5,svm,stock of vehicles,-1.3490631057078808
+6,svm,thousand hours worked,1.6527017978092111
+7,svm,students tertiary ed,-0.16858259149191301
+8,svm,health personnel,-0.3240612987587239
+9,svm,students enrolled,1.8903340920755216
+10,svm,utilised agricultural area,1.6252272626034685
+11,svm,hospital beds,-0.6663227859249101
+12,svm,education and training,-0.7229137957271181
+13,svm,crude death rate,0.2642622265184711
+14,svm,longterm care beds,-3.6838088587319255
+15,svm,regional GWA,-0.35777793590435003
+16,svm,pop density,2.321567164355165
+17,svm,unemployment rate,0.017055681416530355
+18,svm,pct leavers from education,-2.7170971233248022
+19,svm,NEET rate,3.072408049864455
+20,svm,compensation of employees,-5.664337702881296
+21,svm,life expectancy,4.219790557533139

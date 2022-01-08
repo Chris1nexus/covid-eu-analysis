@@ -1,0 +1,23 @@
+,model_name,feature,coefficient
+0,logistic_regression,air passengers,5.2761163201627195
+1,logistic_regression,GDP,29.25580992862389
+2,logistic_regression,farm labour force,-9.784113662612967
+3,logistic_regression,deaths,4.579319383170785
+4,logistic_regression,hosp discharges resp diseases,1.8744976263029163
+5,logistic_regression,stock of vehicles,-4.105947444488253
+6,logistic_regression,thousand hours worked,4.66167482426191
+7,logistic_regression,students tertiary ed,3.914443048581501
+8,logistic_regression,health personnel,-2.22495615994181
+9,logistic_regression,students enrolled,7.315585716738296
+10,logistic_regression,utilised agricultural area,4.9961818058119
+11,logistic_regression,hospital beds,-1.4406748112971364
+12,logistic_regression,education and training,0.0
+13,logistic_regression,crude death rate,0.0
+14,logistic_regression,longterm care beds,-11.915914233389783
+15,logistic_regression,regional GWA,-1.642028694458396
+16,logistic_regression,pop density,7.320163778258873
+17,logistic_regression,unemployment rate,1.2240028786461954
+18,logistic_regression,pct leavers from education,-8.453604009327316
+19,logistic_regression,NEET rate,7.823695392056882
+20,logistic_regression,compensation of employees,-30.94982130959051
+21,logistic_regression,life expectancy,19.507892892597813

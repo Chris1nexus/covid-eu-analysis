@@ -1,0 +1,661 @@
+,model_name,feature,coefficient
+0,random_forest,air passengers,0.017435571653901926
+1,random_forest,GDP,0.041129807313823055
+2,random_forest,farm labour force,0.0335056888870653
+3,random_forest,deaths,0.02612146713362574
+4,random_forest,hosp discharges resp diseases,0.027375219749079503
+5,random_forest,stock of vehicles,0.03714684369013876
+6,random_forest,thousand hours worked,0.1564353750860141
+7,random_forest,students tertiary ed,0.035579946008346595
+8,random_forest,health personnel,0.025058929347832666
+9,random_forest,students enrolled,0.05547263829202141
+10,random_forest,utilised agricultural area,0.052158863563432925
+11,random_forest,hospital beds,0.03701338910054234
+12,random_forest,education and training,0.048189011853770815
+13,random_forest,crude death rate,0.03709075247610715
+14,random_forest,longterm care beds,0.02450920087491908
+15,random_forest,regional GWA,0.029659106132476586
+16,random_forest,pop density,0.02180265195982317
+17,random_forest,unemployment rate,0.03263768823804475
+18,random_forest,pct leavers from education,0.04458294583098038
+19,random_forest,NEET rate,0.0900635007378214
+20,random_forest,compensation of employees,0.06601991064096105
+21,random_forest,life expectancy,0.06101149142927113
+0,random_forest,air passengers,0.023238283458889685
+1,random_forest,GDP,0.06345151524735124
+2,random_forest,farm labour force,0.0375709457465938
+3,random_forest,deaths,0.028572982939288515
+4,random_forest,hosp discharges resp diseases,0.025811740321091074
+5,random_forest,stock of vehicles,0.03955384161586656
+6,random_forest,thousand hours worked,0.1322478602858172
+7,random_forest,students tertiary ed,0.02558043064253498
+8,random_forest,health personnel,0.02100078825373462
+9,random_forest,students enrolled,0.05439068541768845
+10,random_forest,utilised agricultural area,0.046176748001387435
+11,random_forest,hospital beds,0.04625358883293009
+12,random_forest,education and training,0.04428685767266377
+13,random_forest,crude death rate,0.030198722392179154
+14,random_forest,longterm care beds,0.023719220597147525
+15,random_forest,regional GWA,0.052797036037766754
+16,random_forest,pop density,0.016601257532527076
+17,random_forest,unemployment rate,0.02464896716606819
+18,random_forest,pct leavers from education,0.08651703075678185
+19,random_forest,NEET rate,0.04442779521559365
+20,random_forest,compensation of employees,0.06520911582760291
+21,random_forest,life expectancy,0.06774458603849542
+0,random_forest,air passengers,0.01455131020987113
+1,random_forest,GDP,0.03906452366726249
+2,random_forest,farm labour force,0.037083649362127845
+3,random_forest,deaths,0.020612704582824395
+4,random_forest,hosp discharges resp diseases,0.03600031660886601
+5,random_forest,stock of vehicles,0.054845018734810416
+6,random_forest,thousand hours worked,0.15363546084977409
+7,random_forest,students tertiary ed,0.036929924768260444
+8,random_forest,health personnel,0.036092707144320176
+9,random_forest,students enrolled,0.06169595265903218
+10,random_forest,utilised agricultural area,0.026750846128384503
+11,random_forest,hospital beds,0.03759192266654009
+12,random_forest,education and training,0.041128313861396884
+13,random_forest,crude death rate,0.0220703047845502
+14,random_forest,longterm care beds,0.04736701080861101
+15,random_forest,regional GWA,0.026572469470342856
+16,random_forest,pop density,0.02305869191233276
+17,random_forest,unemployment rate,0.03445154606941833
+18,random_forest,pct leavers from education,0.067105598482932
+19,random_forest,NEET rate,0.055098372347123906
+20,random_forest,compensation of employees,0.0632234848141291
+21,random_forest,life expectancy,0.06506987006708906
+0,random_forest,air passengers,0.016676115598217044
+1,random_forest,GDP,0.04182300672655801
+2,random_forest,farm labour force,0.03658764631879197
+3,random_forest,deaths,0.020782790563536394
+4,random_forest,hosp discharges resp diseases,0.03752031851379116
+5,random_forest,stock of vehicles,0.036640120570671224
+6,random_forest,thousand hours worked,0.16985548397023417
+7,random_forest,students tertiary ed,0.04561825839108725
+8,random_forest,health personnel,0.04253488399664628
+9,random_forest,students enrolled,0.07348430063045816
+10,random_forest,utilised agricultural area,0.019407868440258106
+11,random_forest,hospital beds,0.03473359197520445
+12,random_forest,education and training,0.030433623108156452
+13,random_forest,crude death rate,0.01958649678990602
+14,random_forest,longterm care beds,0.05634997622682491
+15,random_forest,regional GWA,0.049423752959300044
+16,random_forest,pop density,0.020841059708515696
+17,random_forest,unemployment rate,0.027791140646567528
+18,random_forest,pct leavers from education,0.04717742829891277
+19,random_forest,NEET rate,0.06790718614578246
+20,random_forest,compensation of employees,0.03843562042717876
+21,random_forest,life expectancy,0.06638932999340112
+0,random_forest,air passengers,0.022286779915844577
+1,random_forest,GDP,0.04151889395771432
+2,random_forest,farm labour force,0.024451747956909443
+3,random_forest,deaths,0.029379808929954843
+4,random_forest,hosp discharges resp diseases,0.03470315475355839
+5,random_forest,stock of vehicles,0.03758122352281574
+6,random_forest,thousand hours worked,0.12961590826787642
+7,random_forest,students tertiary ed,0.0636133134564568
+8,random_forest,health personnel,0.03405233211855429
+9,random_forest,students enrolled,0.06509160601921787
+10,random_forest,utilised agricultural area,0.04146796121075955
+11,random_forest,hospital beds,0.03824637687258983
+12,random_forest,education and training,0.04063660824880549
+13,random_forest,crude death rate,0.027360257469405916
+14,random_forest,longterm care beds,0.026892899955626527
+15,random_forest,regional GWA,0.03487108089074247
+16,random_forest,pop density,0.01641961560010043
+17,random_forest,unemployment rate,0.030675561136943297
+18,random_forest,pct leavers from education,0.0622746839602926
+19,random_forest,NEET rate,0.07275508276716275
+20,random_forest,compensation of employees,0.0619353213354992
+21,random_forest,life expectancy,0.06416978165316954
+0,random_forest,air passengers,0.022375576949514194
+1,random_forest,GDP,0.060910035866062716
+2,random_forest,farm labour force,0.030005709435149134
+3,random_forest,deaths,0.037090053940678686
+4,random_forest,hosp discharges resp diseases,0.038556778231331086
+5,random_forest,stock of vehicles,0.029876401095521567
+6,random_forest,thousand hours worked,0.14199105203803242
+7,random_forest,students tertiary ed,0.0335957140502566
+8,random_forest,health personnel,0.02625923102440659
+9,random_forest,students enrolled,0.049398773952282
+10,random_forest,utilised agricultural area,0.044828215929936424
+11,random_forest,hospital beds,0.019068311741777973
+12,random_forest,education and training,0.06097882738576584
+13,random_forest,crude death rate,0.017315665201215604
+14,random_forest,longterm care beds,0.02982102793758062
+15,random_forest,regional GWA,0.041346514294062164
+16,random_forest,pop density,0.012661570023959122
+17,random_forest,unemployment rate,0.04137109298720648
+18,random_forest,pct leavers from education,0.05374140383014058
+19,random_forest,NEET rate,0.07892147973072829
+20,random_forest,compensation of employees,0.08325583884210991
+21,random_forest,life expectancy,0.04663072551228195
+0,random_forest,air passengers,0.02382415609596022
+1,random_forest,GDP,0.054097433965730864
+2,random_forest,farm labour force,0.036846269789105685
+3,random_forest,deaths,0.017930279671607877
+4,random_forest,hosp discharges resp diseases,0.03728004459854097
+5,random_forest,stock of vehicles,0.030380123938602593
+6,random_forest,thousand hours worked,0.1307222361209143
+7,random_forest,students tertiary ed,0.031254102392420234
+8,random_forest,health personnel,0.04130546704687389
+9,random_forest,students enrolled,0.05641725760229988
+10,random_forest,utilised agricultural area,0.0747629004103062
+11,random_forest,hospital beds,0.03860200992496998
+12,random_forest,education and training,0.04932779460601771
+13,random_forest,crude death rate,0.024465335493251663
+14,random_forest,longterm care beds,0.030036183539116686
+15,random_forest,regional GWA,0.027028706483619453
+16,random_forest,pop density,0.024674470266843128
+17,random_forest,unemployment rate,0.03462692413007817
+18,random_forest,pct leavers from education,0.044225325496148944
+19,random_forest,NEET rate,0.07721564609932914
+20,random_forest,compensation of employees,0.04642420902807151
+21,random_forest,life expectancy,0.06855312330019085
+0,random_forest,air passengers,0.022903128553368676
+1,random_forest,GDP,0.035931574108276354
+2,random_forest,farm labour force,0.0253195685178816
+3,random_forest,deaths,0.02808225441485197
+4,random_forest,hosp discharges resp diseases,0.0342820947546006
+5,random_forest,stock of vehicles,0.04569120426683287
+6,random_forest,thousand hours worked,0.11657335467024244
+7,random_forest,students tertiary ed,0.06556035873876417
+8,random_forest,health personnel,0.03229285600514706
+9,random_forest,students enrolled,0.045198777348264364
+10,random_forest,utilised agricultural area,0.03745318645955806
+11,random_forest,hospital beds,0.03608057625266419
+12,random_forest,education and training,0.06556980272887779
+13,random_forest,crude death rate,0.014459910361876877
+14,random_forest,longterm care beds,0.04590488212298235
+15,random_forest,regional GWA,0.056708292226093686
+16,random_forest,pop density,0.020414396143888992
+17,random_forest,unemployment rate,0.021500105048979624
+18,random_forest,pct leavers from education,0.05968493723774376
+19,random_forest,NEET rate,0.08833393001578736
+20,random_forest,compensation of employees,0.053386172597984706
+21,random_forest,life expectancy,0.048668637425332534
+0,random_forest,air passengers,0.022723136844155983
+1,random_forest,GDP,0.045443971208548456
+2,random_forest,farm labour force,0.036694096617374716
+3,random_forest,deaths,0.023613772495151293
+4,random_forest,hosp discharges resp diseases,0.028900832202819637
+5,random_forest,stock of vehicles,0.024550294417053167
+6,random_forest,thousand hours worked,0.16034748933345264
+7,random_forest,students tertiary ed,0.03816016072671609
+8,random_forest,health personnel,0.03552569872881032
+9,random_forest,students enrolled,0.053899726892967126
+10,random_forest,utilised agricultural area,0.07333861704584331
+11,random_forest,hospital beds,0.04841977892439546
+12,random_forest,education and training,0.048519260456482916
+13,random_forest,crude death rate,0.03540038947446797
+14,random_forest,longterm care beds,0.025956184908950776
+15,random_forest,regional GWA,0.029176109507601355
+16,random_forest,pop density,0.018181698204978128
+17,random_forest,unemployment rate,0.03273450182497868
+18,random_forest,pct leavers from education,0.06114493390582129
+19,random_forest,NEET rate,0.07127001033505058
+20,random_forest,compensation of employees,0.04024518121627504
+21,random_forest,life expectancy,0.04575415472810488
+0,random_forest,air passengers,0.013659248756612334
+1,random_forest,GDP,0.034149799152417976
+2,random_forest,farm labour force,0.025843029350107495
+3,random_forest,deaths,0.025862046386277697
+4,random_forest,hosp discharges resp diseases,0.03522833841989939
+5,random_forest,stock of vehicles,0.0334648062102362
+6,random_forest,thousand hours worked,0.19062233996896372
+7,random_forest,students tertiary ed,0.045463972653768094
+8,random_forest,health personnel,0.029023430641514962
+9,random_forest,students enrolled,0.07331966683922402
+10,random_forest,utilised agricultural area,0.0372246197505198
+11,random_forest,hospital beds,0.04685572079262051
+12,random_forest,education and training,0.05324528545529479
+13,random_forest,crude death rate,0.024179497863024278
+14,random_forest,longterm care beds,0.026838987283108424
+15,random_forest,regional GWA,0.04405653808579411
+16,random_forest,pop density,0.016741759365044687
+17,random_forest,unemployment rate,0.03203523546241972
+18,random_forest,pct leavers from education,0.06697614843138351
+19,random_forest,NEET rate,0.06651058483220684
+20,random_forest,compensation of employees,0.04376250006750484
+21,random_forest,life expectancy,0.034936444232056656
+0,svm,air passengers,0.24525371851543687
+1,svm,GDP,0.42925308351517066
+2,svm,farm labour force,0.26604360478963773
+3,svm,deaths,0.2825335772046562
+4,svm,hosp discharges resp diseases,-0.17593678304594898
+5,svm,stock of vehicles,0.12018771787781901
+6,svm,thousand hours worked,1.5915543955801619
+7,svm,students tertiary ed,0.7089295023314137
+8,svm,health personnel,-0.31921547085931457
+9,svm,students enrolled,-0.34809890318621217
+10,svm,utilised agricultural area,0.013819634785662116
+11,svm,hospital beds,-0.203445733427159
+12,svm,education and training,-0.3756698212604278
+13,svm,crude death rate,-1.03546995543314
+14,svm,longterm care beds,-0.4206941279710461
+15,svm,regional GWA,0.2106830404378654
+16,svm,pop density,0.2888433801126772
+17,svm,unemployment rate,0.04561033847768886
+18,svm,pct leavers from education,-0.16090502312856314
+19,svm,NEET rate,-0.7252629086480643
+20,svm,compensation of employees,-1.5031622082007172
+21,svm,life expectancy,0.44514896099835954
+0,svm,air passengers,0.4618655726737637
+1,svm,GDP,0.7213310664729303
+2,svm,farm labour force,0.7674326719687862
+3,svm,deaths,0.2938420665467411
+4,svm,hosp discharges resp diseases,-0.27328487619476105
+5,svm,stock of vehicles,0.006282652413201195
+6,svm,thousand hours worked,1.4599156047729769
+7,svm,students tertiary ed,0.6148926196857182
+8,svm,health personnel,0.015120719820339884
+9,svm,students enrolled,-0.47089779957288713
+10,svm,utilised agricultural area,-0.05882288343711026
+11,svm,hospital beds,0.14922599264342437
+12,svm,education and training,-0.4431928052740599
+13,svm,crude death rate,-0.912202470600934
+14,svm,longterm care beds,0.5010660288488329
+15,svm,regional GWA,0.30289192077423344
+16,svm,pop density,0.0959842774507044
+17,svm,unemployment rate,0.18920891826219047
+18,svm,pct leavers from education,-0.11912456101975682
+19,svm,NEET rate,-0.9868091337319543
+20,svm,compensation of employees,-1.7352265238869522
+21,svm,life expectancy,0.8503351762775109
+0,svm,air passengers,0.1739456534221468
+1,svm,GDP,0.8969321286896025
+2,svm,farm labour force,0.17388398896776797
+3,svm,deaths,0.3712635790376188
+4,svm,hosp discharges resp diseases,-0.12940915294785138
+5,svm,stock of vehicles,0.07353570173043339
+6,svm,thousand hours worked,1.5616537919500681
+7,svm,students tertiary ed,0.7826360780738599
+8,svm,health personnel,-0.26419820349634193
+9,svm,students enrolled,-0.6029905544776498
+10,svm,utilised agricultural area,-0.12637173312945982
+11,svm,hospital beds,0.02769556990711286
+12,svm,education and training,-0.3775637158437031
+13,svm,crude death rate,-0.8731954121122025
+14,svm,longterm care beds,-0.2913206243780613
+15,svm,regional GWA,0.2842378205312352
+16,svm,pop density,-0.09281011633879538
+17,svm,unemployment rate,0.33604304654223216
+18,svm,pct leavers from education,-0.03327016984378034
+19,svm,NEET rate,-0.9343202987732369
+20,svm,compensation of employees,-1.7100594207111723
+21,svm,life expectancy,0.4384518465731836
+0,svm,air passengers,0.16380506086416757
+1,svm,GDP,0.21204126258280998
+2,svm,farm labour force,0.5190655636852253
+3,svm,deaths,-0.06988859512669793
+4,svm,hosp discharges resp diseases,-0.5681892054419582
+5,svm,stock of vehicles,0.1918624819156865
+6,svm,thousand hours worked,2.043738038861454
+7,svm,students tertiary ed,0.6507320173790543
+8,svm,health personnel,0.05222011307193955
+9,svm,students enrolled,-0.2584776930048406
+10,svm,utilised agricultural area,-0.18220052217373423
+11,svm,hospital beds,0.25582374289469545
+12,svm,education and training,-0.5179391223755845
+13,svm,crude death rate,-0.6681857157615638
+14,svm,longterm care beds,-0.3805018167588209
+15,svm,regional GWA,0.1555633487682866
+16,svm,pop density,-0.0054321920148853176
+17,svm,unemployment rate,-0.05563496961432479
+18,svm,pct leavers from education,0.01729314557487871
+19,svm,NEET rate,-1.0786440526496848
+20,svm,compensation of employees,-1.650713207749003
+21,svm,life expectancy,0.5328048209845307
+0,svm,air passengers,0.19623245369990594
+1,svm,GDP,0.49010632094961537
+2,svm,farm labour force,0.4273176042616243
+3,svm,deaths,0.12369556644247132
+4,svm,hosp discharges resp diseases,-0.035047961277128226
+5,svm,stock of vehicles,0.21122689163923697
+6,svm,thousand hours worked,1.417552428158093
+7,svm,students tertiary ed,0.8251511202241866
+8,svm,health personnel,-0.2879610744521246
+9,svm,students enrolled,-0.5353425725506941
+10,svm,utilised agricultural area,-0.08073109567273197
+11,svm,hospital beds,-0.11973775908911248
+12,svm,education and training,-0.49875793309437616
+13,svm,crude death rate,-0.8900671611539619
+14,svm,longterm care beds,-0.3270738761837205
+15,svm,regional GWA,0.06442541994027479
+16,svm,pop density,0.15037981217392493
+17,svm,unemployment rate,0.3510478216059293
+18,svm,pct leavers from education,-0.21599687343389223
+19,svm,NEET rate,-1.1064386923518716
+20,svm,compensation of employees,-1.532477364508284
+21,svm,life expectancy,0.37767129141184286
+0,svm,air passengers,0.3252308071958278
+1,svm,GDP,0.599395474305518
+2,svm,farm labour force,0.5987400004263124
+3,svm,deaths,0.12277320110957884
+4,svm,hosp discharges resp diseases,-0.1466271831848432
+5,svm,stock of vehicles,0.224384913084344
+6,svm,thousand hours worked,1.2716121201294455
+7,svm,students tertiary ed,0.773574381411473
+8,svm,health personnel,-0.18189808870604593
+9,svm,students enrolled,-0.3788050397047832
+10,svm,utilised agricultural area,-0.1836646321475569
+11,svm,hospital beds,-0.11653629468406328
+12,svm,education and training,-0.5022226780753698
+13,svm,crude death rate,-0.9072699602898586
+14,svm,longterm care beds,-0.47006209531719534
+15,svm,regional GWA,0.19346677649255495
+16,svm,pop density,0.2092584469854617
+17,svm,unemployment rate,0.33188321719078884
+18,svm,pct leavers from education,-0.2646942107858488
+19,svm,NEET rate,-1.1125590586480385
+20,svm,compensation of employees,-1.6173849290805555
+21,svm,life expectancy,0.3507975082845841
+0,svm,air passengers,0.1815383193402238
+1,svm,GDP,0.612557682063076
+2,svm,farm labour force,0.5352405606414274
+3,svm,deaths,-0.018029893048781886
+4,svm,hosp discharges resp diseases,-0.07301541477995355
+5,svm,stock of vehicles,0.29779143753803927
+6,svm,thousand hours worked,1.3259096868371292
+7,svm,students tertiary ed,0.8335212416820279
+8,svm,health personnel,-0.23946881458913438
+9,svm,students enrolled,-0.46068213550792214
+10,svm,utilised agricultural area,-0.028712854417404454
+11,svm,hospital beds,-0.2090505188781021
+12,svm,education and training,-0.5658938862767615
+13,svm,crude death rate,-1.023082777764623
+14,svm,longterm care beds,-0.2848731563671184
+15,svm,regional GWA,0.14254627538193682
+16,svm,pop density,0.17801645302737867
+17,svm,unemployment rate,0.2306470365392978
+18,svm,pct leavers from education,-0.24872125631825215
+19,svm,NEET rate,-1.0877552931469754
+20,svm,compensation of employees,-1.650907679494893
+21,svm,life expectancy,0.29832994898006404
+0,svm,air passengers,0.14552936809535522
+1,svm,GDP,0.7252781691277222
+2,svm,farm labour force,0.5273714907718186
+3,svm,deaths,0.2195368346403373
+4,svm,hosp discharges resp diseases,0.021565975660442882
+5,svm,stock of vehicles,-0.0034912017850122212
+6,svm,thousand hours worked,1.4331369596896812
+7,svm,students tertiary ed,0.8624006089673386
+8,svm,health personnel,-0.29502826847287045
+9,svm,students enrolled,-0.603653263074555
+10,svm,utilised agricultural area,-0.049341600621741435
+11,svm,hospital beds,-0.11330779617658142
+12,svm,education and training,-0.473259615056578
+13,svm,crude death rate,-1.114509911314045
+14,svm,longterm care beds,-0.17301889993901054
+15,svm,regional GWA,0.30438943337034763
+16,svm,pop density,0.17483746443512316
+17,svm,unemployment rate,0.36849262955054046
+18,svm,pct leavers from education,-0.34263351213510035
+19,svm,NEET rate,-0.9506892979391444
+20,svm,compensation of employees,-1.7036707550441927
+21,svm,life expectancy,0.5885183411091138
+0,svm,air passengers,0.27129680848512777
+1,svm,GDP,0.6138625748303786
+2,svm,farm labour force,0.47637868675317946
+3,svm,deaths,-0.09112969861028247
+4,svm,hosp discharges resp diseases,-0.21697042740323452
+5,svm,stock of vehicles,0.14672180204330115
+6,svm,thousand hours worked,1.4408343600832125
+7,svm,students tertiary ed,1.0116832881420899
+8,svm,health personnel,-0.23239274370587945
+9,svm,students enrolled,-0.40647153073542264
+10,svm,utilised agricultural area,-0.02444415681184399
+11,svm,hospital beds,-0.2307732226005072
+12,svm,education and training,-0.5187227490626432
+13,svm,crude death rate,-0.9049953080186706
+14,svm,longterm care beds,-0.3827325433965335
+15,svm,regional GWA,-0.0392218963475377
+16,svm,pop density,-0.03490930361365341
+17,svm,unemployment rate,0.08044203317984855
+18,svm,pct leavers from education,-0.18413702566000772
+19,svm,NEET rate,-0.9089819998213262
+20,svm,compensation of employees,-1.6506777703386994
+21,svm,life expectancy,0.2389353530381534
+0,svm,air passengers,0.20226884679358492
+1,svm,GDP,1.0315281637094302
+2,svm,farm labour force,0.5263778614131529
+3,svm,deaths,0.21597037424357057
+4,svm,hosp discharges resp diseases,-0.06264866558162374
+5,svm,stock of vehicles,0.19018827369460012
+6,svm,thousand hours worked,1.338560012910997
+7,svm,students tertiary ed,0.5901035747647927
+8,svm,health personnel,-0.23755697190665903
+9,svm,students enrolled,-0.5254031184856305
+10,svm,utilised agricultural area,-0.05013788245363848
+11,svm,hospital beds,-0.07386078304012911
+12,svm,education and training,-0.40620355442196887
+13,svm,crude death rate,-0.8602942966315227
+14,svm,longterm care beds,-0.3871290537163261
+15,svm,regional GWA,0.18025820873529297
+16,svm,pop density,0.21620962720823
+17,svm,unemployment rate,0.40703839619649196
+18,svm,pct leavers from education,-0.20274442265656
+19,svm,NEET rate,-0.9720315602526273
+20,svm,compensation of employees,-1.7644357299764315
+21,svm,life expectancy,0.2692054992481846
+0,logistic_regression,air passengers,-0.28918947192157335
+1,logistic_regression,GDP,17.067145766727563
+2,logistic_regression,farm labour force,0.09724828545598115
+3,logistic_regression,deaths,1.30804724314951
+4,logistic_regression,hosp discharges resp diseases,-0.8310774863472312
+5,logistic_regression,stock of vehicles,0.0
+6,logistic_regression,thousand hours worked,2.4862658854569966
+7,logistic_regression,students tertiary ed,2.3143660893681584
+8,logistic_regression,health personnel,-1.4958791842762744
+9,logistic_regression,students enrolled,-0.5899135750442575
+10,logistic_regression,utilised agricultural area,-0.022478613318983872
+11,logistic_regression,hospital beds,0.06749718844787563
+12,logistic_regression,education and training,-1.2204472419773238
+13,logistic_regression,crude death rate,-2.5321057749770906
+14,logistic_regression,longterm care beds,-0.254885513197273
+15,logistic_regression,regional GWA,0.34583409088217376
+16,logistic_regression,pop density,0.23094173269805948
+17,logistic_regression,unemployment rate,0.2647698877746302
+18,logistic_regression,pct leavers from education,-0.15995903669632353
+19,logistic_regression,NEET rate,-1.9327435405257116
+20,logistic_regression,compensation of employees,-18.94778137053067
+21,logistic_regression,life expectancy,0.7099222933507134
+0,logistic_regression,air passengers,-0.5173167232184525
+1,logistic_regression,GDP,11.121454256245128
+2,logistic_regression,farm labour force,0.0
+3,logistic_regression,deaths,2.194549117486092
+4,logistic_regression,hosp discharges resp diseases,-1.0538199882780057
+5,logistic_regression,stock of vehicles,0.7762104410104596
+6,logistic_regression,thousand hours worked,5.132121221107645
+7,logistic_regression,students tertiary ed,3.005789661313426
+8,logistic_regression,health personnel,-1.3797051130987414
+9,logistic_regression,students enrolled,-0.41485464776718767
+10,logistic_regression,utilised agricultural area,-0.42706912034137895
+11,logistic_regression,hospital beds,0.0325320488970034
+12,logistic_regression,education and training,-1.3352611238672747
+13,logistic_regression,crude death rate,-3.7632199190747606
+14,logistic_regression,longterm care beds,-0.29447770958372976
+15,logistic_regression,regional GWA,0.0
+16,logistic_regression,pop density,0.0
+17,logistic_regression,unemployment rate,0.08066245477333178
+18,logistic_regression,pct leavers from education,0.3491501242290037
+19,logistic_regression,NEET rate,-2.6164503613216223
+20,logistic_regression,compensation of employees,-14.548553045293984
+21,logistic_regression,life expectancy,0.6009556026293158
+0,logistic_regression,air passengers,-0.27979096712260315
+1,logistic_regression,GDP,13.9994128010172
+2,logistic_regression,farm labour force,0.13351348545667685
+3,logistic_regression,deaths,1.1477081949389996
+4,logistic_regression,hosp discharges resp diseases,-0.7562500456390768
+5,logistic_regression,stock of vehicles,0.36174519703724795
+6,logistic_regression,thousand hours worked,3.3921050591856625
+7,logistic_regression,students tertiary ed,1.4174823257793097
+8,logistic_regression,health personnel,-1.8659733694754714
+9,logistic_regression,students enrolled,-1.0015765894443085
+10,logistic_regression,utilised agricultural area,-0.6235961070224072
+11,logistic_regression,hospital beds,-0.08354469833947811
+12,logistic_regression,education and training,-0.817027578374533
+13,logistic_regression,crude death rate,-2.063007857809367
+14,logistic_regression,longterm care beds,-0.19547314400110175
+15,logistic_regression,regional GWA,0.27977282071046516
+16,logistic_regression,pop density,-0.22525036121653963
+17,logistic_regression,unemployment rate,2.8024374959085847
+18,logistic_regression,pct leavers from education,0.1973269417821513
+19,logistic_regression,NEET rate,-4.019040063430778
+20,logistic_regression,compensation of employees,-15.43556613945497
+21,logistic_regression,life expectancy,0.10270930639132558
+0,logistic_regression,air passengers,-0.7422033747814761
+1,logistic_regression,GDP,14.3474108767324
+2,logistic_regression,farm labour force,1.5593895195796297
+3,logistic_regression,deaths,2.0348188888903636
+4,logistic_regression,hosp discharges resp diseases,-0.6585494042798773
+5,logistic_regression,stock of vehicles,0.3794240864172154
+6,logistic_regression,thousand hours worked,2.331371670256858
+7,logistic_regression,students tertiary ed,2.1360013200349024
+8,logistic_regression,health personnel,-1.2475603674251075
+9,logistic_regression,students enrolled,-0.2661783075578287
+10,logistic_regression,utilised agricultural area,-0.769521997120873
+11,logistic_regression,hospital beds,0.0
+12,logistic_regression,education and training,-1.6912916994097489
+13,logistic_regression,crude death rate,-3.70439145468058
+14,logistic_regression,longterm care beds,0.5835076167068161
+15,logistic_regression,regional GWA,1.1142946768647157
+16,logistic_regression,pop density,0.31681149494365407
+17,logistic_regression,unemployment rate,1.4717927535928361
+18,logistic_regression,pct leavers from education,-0.3141370144636051
+19,logistic_regression,NEET rate,-3.9983200865113613
+20,logistic_regression,compensation of employees,-16.56215407521374
+21,logistic_regression,life expectancy,0.8981201341501184
+0,logistic_regression,air passengers,-0.8661981952005112
+1,logistic_regression,GDP,16.51819192458213
+2,logistic_regression,farm labour force,0.1322555394488771
+3,logistic_regression,deaths,1.884612227659375
+4,logistic_regression,hosp discharges resp diseases,-0.9101606935356862
+5,logistic_regression,stock of vehicles,0.3498101092525836
+6,logistic_regression,thousand hours worked,2.9578232948163192
+7,logistic_regression,students tertiary ed,1.6632066685303204
+8,logistic_regression,health personnel,-1.5230272872002508
+9,logistic_regression,students enrolled,-0.6742005458643864
+10,logistic_regression,utilised agricultural area,-0.3212661721848258
+11,logistic_regression,hospital beds,-0.06943063160707526
+12,logistic_regression,education and training,-0.9916949140855327
+13,logistic_regression,crude death rate,-3.1908418702194634
+14,logistic_regression,longterm care beds,-0.44267973390525783
+15,logistic_regression,regional GWA,0.5720503660346022
+16,logistic_regression,pop density,0.0
+17,logistic_regression,unemployment rate,0.7611505640732011
+18,logistic_regression,pct leavers from education,-0.1493513867563896
+19,logistic_regression,NEET rate,-2.257635004502919
+20,logistic_regression,compensation of employees,-18.66535543520523
+21,logistic_regression,life expectancy,0.6792835589295515
+0,logistic_regression,air passengers,-0.6164471985496419
+1,logistic_regression,GDP,15.065854265018954
+2,logistic_regression,farm labour force,0.5381102553103442
+3,logistic_regression,deaths,1.629811273995315
+4,logistic_regression,hosp discharges resp diseases,-0.7977877708080896
+5,logistic_regression,stock of vehicles,0.4217013452441536
+6,logistic_regression,thousand hours worked,2.557061851263114
+7,logistic_regression,students tertiary ed,1.8895674299722234
+8,logistic_regression,health personnel,-1.5463765818203759
+9,logistic_regression,students enrolled,-0.42073686665568805
+10,logistic_regression,utilised agricultural area,-0.2942361396767367
+11,logistic_regression,hospital beds,0.0
+12,logistic_regression,education and training,-1.0401083251604273
+13,logistic_regression,crude death rate,-3.1179928768884317
+14,logistic_regression,longterm care beds,-0.008503013380547717
+15,logistic_regression,regional GWA,0.6947562885477613
+16,logistic_regression,pop density,0.4054014012030387
+17,logistic_regression,unemployment rate,0.9411883998858593
+18,logistic_regression,pct leavers from education,-0.08065508817118913
+19,logistic_regression,NEET rate,-2.877967840476351
+20,logistic_regression,compensation of employees,-17.198046561782775
+21,logistic_regression,life expectancy,0.5087129642973328
+0,logistic_regression,air passengers,-0.73401689590218
+1,logistic_regression,GDP,17.278768339723435
+2,logistic_regression,farm labour force,0.6896017033032991
+3,logistic_regression,deaths,0.0
+4,logistic_regression,hosp discharges resp diseases,-0.5866902926122166
+5,logistic_regression,stock of vehicles,0.29445706572014113
+6,logistic_regression,thousand hours worked,2.8880159228937203
+7,logistic_regression,students tertiary ed,1.9142655559170272
+8,logistic_regression,health personnel,-1.7047768601280204
+9,logistic_regression,students enrolled,-0.2883396499748939
+10,logistic_regression,utilised agricultural area,-0.13835528786422224
+11,logistic_regression,hospital beds,0.23844764061135765
+12,logistic_regression,education and training,-1.0365805924084361
+13,logistic_regression,crude death rate,-1.609827088485492
+14,logistic_regression,longterm care beds,-0.08002794452159678
+15,logistic_regression,regional GWA,0.6254744592491205
+16,logistic_regression,pop density,0.20503139969502682
+17,logistic_regression,unemployment rate,0.8380765953396424
+18,logistic_regression,pct leavers from education,-0.5135398127152578
+19,logistic_regression,NEET rate,-2.158405051627072
+20,logistic_regression,compensation of employees,-18.880855058519675
+21,logistic_regression,life expectancy,0.6685080206716044
+0,logistic_regression,air passengers,-0.8950427043611962
+1,logistic_regression,GDP,18.50827558311709
+2,logistic_regression,farm labour force,-0.3131059406518579
+3,logistic_regression,deaths,1.5629621680989672
+4,logistic_regression,hosp discharges resp diseases,-1.1695254342419135
+5,logistic_regression,stock of vehicles,0.0
+6,logistic_regression,thousand hours worked,3.7696710018194457
+7,logistic_regression,students tertiary ed,2.9437459427347763
+8,logistic_regression,health personnel,-1.840651003125844
+9,logistic_regression,students enrolled,-1.1127272703650675
+10,logistic_regression,utilised agricultural area,-0.012684569096790405
+11,logistic_regression,hospital beds,0.0
+12,logistic_regression,education and training,-0.5498851243955946
+13,logistic_regression,crude death rate,-3.707431555664069
+14,logistic_regression,longterm care beds,-0.19517145125185362
+15,logistic_regression,regional GWA,0.7229346812524682
+16,logistic_regression,pop density,0.03223966586777823
+17,logistic_regression,unemployment rate,0.5605308114136758
+18,logistic_regression,pct leavers from education,0.4432047885361543
+19,logistic_regression,NEET rate,-2.7193294603842273
+20,logistic_regression,compensation of employees,-20.99052545803241
+21,logistic_regression,life expectancy,0.13744991123426215
+0,logistic_regression,air passengers,0.3835920715788397
+1,logistic_regression,GDP,14.571371023054743
+2,logistic_regression,farm labour force,1.072877374891921
+3,logistic_regression,deaths,3.3902453508801007
+4,logistic_regression,hosp discharges resp diseases,-0.38719078745603164
+5,logistic_regression,stock of vehicles,0.0
+6,logistic_regression,thousand hours worked,2.7402043831835314
+7,logistic_regression,students tertiary ed,3.429557394608991
+8,logistic_regression,health personnel,-1.4383745157266847
+9,logistic_regression,students enrolled,-1.3330294026823408
+10,logistic_regression,utilised agricultural area,-0.16484854995916084
+11,logistic_regression,hospital beds,-0.7669918899094393
+12,logistic_regression,education and training,-2.1108332185655785
+13,logistic_regression,crude death rate,-5.092891750094874
+14,logistic_regression,longterm care beds,-2.0303523229896743
+15,logistic_regression,regional GWA,1.15998436040679
+16,logistic_regression,pop density,0.7364832091057691
+17,logistic_regression,unemployment rate,0.0
+18,logistic_regression,pct leavers from education,-0.4055867989725983
+19,logistic_regression,NEET rate,-2.64007280346356
+20,logistic_regression,compensation of employees,-17.44241673191223
+21,logistic_regression,life expectancy,1.3548974698594176
+0,logistic_regression,air passengers,-1.0979641857541085
+1,logistic_regression,GDP,16.18505237109942
+2,logistic_regression,farm labour force,0.9072834579027397
+3,logistic_regression,deaths,1.3507986866092898
+4,logistic_regression,hosp discharges resp diseases,-0.7322232524674962
+5,logistic_regression,stock of vehicles,1.1557546681866273
+6,logistic_regression,thousand hours worked,2.020851564514005
+7,logistic_regression,students tertiary ed,2.563578463000168
+8,logistic_regression,health personnel,-1.7632734470863125
+9,logistic_regression,students enrolled,-0.667600983570918
+10,logistic_regression,utilised agricultural area,-0.43521721640222705
+11,logistic_regression,hospital beds,0.0
+12,logistic_regression,education and training,-1.319955639618525
+13,logistic_regression,crude death rate,-2.899273803201386
+14,logistic_regression,longterm care beds,0.0
+15,logistic_regression,regional GWA,0.7664325717659957
+16,logistic_regression,pop density,0.2552045752658365
+17,logistic_regression,unemployment rate,0.5869182446348183
+18,logistic_regression,pct leavers from education,-0.045536820566559534
+19,logistic_regression,NEET rate,-2.8004609983313244
+20,logistic_regression,compensation of employees,-17.908996728056703
+21,logistic_regression,life expectancy,0.7509721148380575

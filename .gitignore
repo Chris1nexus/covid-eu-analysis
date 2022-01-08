@@ -1,0 +1,6 @@
+./deprecated/*
+./from_2020-02-20_to_2020-08-20__cumulativepositive__nclust_2_with_ML/*
+./from_2020-08-20_to_2021-02-20__cumulativepositive__nclust_2_with_ML/*
+./violin_plots_side_by_side/*
+./results/*
+./Untitled.ipynb
