@@ -171,12 +171,12 @@ def get_side_by_side_plots(datamanager, dataset_file_path, dest_dir_path="./viol
             #print(len(classes))
             newdf = pd.DataFrame({'value': feature_values,
                                  'feature': feature_names,
-                                 'class': classes})
+                                 'class': [ "high risk" if c == "higher_than_avg" else "reduced risk" for c in classes ]})
             sns.set(font_scale=1.1)
             plt.figure(figsize=(8,15))
             plt.title('standardized features ordered by increasing F-test pvalue\nfrom top to bottom')
             ax = sns.violinplot(y="feature", x="value", hue="class",
-                                data=newdf, palette="muted", hue_order=["below_than_avg", "higher_than_avg"], split=True)
+                                data=newdf, palette="muted", hue_order=["reduced risk", "high risk"], split=True)
 
 
 

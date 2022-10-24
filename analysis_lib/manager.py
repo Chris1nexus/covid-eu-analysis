@@ -96,7 +96,8 @@ class DataManager(object):
                  nuts2_to_remove=[],
                  start_date="2020-01-20",
                  end_date="2020-08-20",
-                 clust_method='ML'):
+                 clust_method='ML',
+                threshold=None):
         
 
         p_types = ["regression", "classification"]
@@ -247,7 +248,7 @@ class DataManager(object):
             #"classification"
             res_response_target_name, res_response_series, subset_selected_samples_series = self.__clusterize_target( response_variable="Covid_Cases_Density",
                                                                                                                     n_clusters=n_clusters,
-                                                                                                                    clust_method=self.clust_method)
+                                                                                                                    clust_method=self.clust_method, threshold=threshold)
             Y = pd.Series(res_response_series, name ="covid_severity")
             selected_samples_series = selected_samples_series & subset_selected_samples_series
             
@@ -284,8 +285,25 @@ class DataManager(object):
         
         
   
-    def __clusterize_target(self, response_variable="Covid_Cases_Density",n_clusters=3, clust_method='ML'):
+    def __clusterize_target(self, response_variable="Covid_Cases_Density",n_clusters=3, threshold=0., clust_method='ML'):
 
+            def evenly_spaced_clusters(n_clusters, N):
+                linspaced = np.linspace(0,1, n_clusters+1)*N
+                int_linspace = [int(val) for val in (linspaced)[1:] ]
+
+                i = 0
+                l = []
+                for j in range(N):
+
+                    l.append(i)
+                    if j >= int_linspace[i]:
+                         i += 1
+                return l
+            class ClustWrapper:
+                def __init__(self, labels):
+                    self.labels_ = labels
+
+        
             X = self.df[response_variable]
 
             X = X.to_numpy().reshape(-1,1)
@@ -303,21 +321,7 @@ class DataManager(object):
                 cluster_labels = ["low", "medium", "high"]
                 
             if clust_method == 'det':
-                def evenly_spaced_clusters(n_clusters, N):
-                    linspaced = np.linspace(0,1, n_clusters+1)*N
-                    int_linspace = [int(val) for val in (linspaced)[1:] ]
 
-                    i = 0
-                    l = []
-                    for j in range(N):
-
-                        l.append(i)
-                        if j >= int_linspace[i]:
-                             i += 1
-                    return l
-                class ClustWrapper:
-                    def __init__(self, labels):
-                        self.labels_ = labels
             
                 N = len(X)
                 
@@ -329,9 +333,13 @@ class DataManager(object):
                     cluster_to_samples[pos] = clust
                     
                 cluster = ClustWrapper(cluster_to_samples)
-            else:
+            elif clust_method=="ML":
                 kmeans = KMeans(n_clusters=n_clusters)
                 cluster = kmeans.fit(X)
+            elif clust_method=="threshold":
+                print(X.flatten().tolist(), X.flatten() >= threshold)
+                cluster = ClustWrapper(X.flatten() >= threshold)
+                
 
             from collections import Counter
             counter = Counter(cluster.labels_)
@@ -401,7 +409,7 @@ class DataManager(object):
     def __remove_population_dependency(self):
         if not self.population_normalized:
             for column in self.population_dependent_features:
-                self.X[column] = self.X[column] / self.population_size_series
+                self.X.loc[:, column] = self.X[column] / self.population_size_series
             
             # treated aside as a special case (since this number by100k inhabitants is of difficult interpretation)
             self.X[self.compensation] = self.X[self.compensation] / self.population_size_series
@@ -429,7 +437,7 @@ class DataManager(object):
         # and produces the expected
         # filling of the nans by the national mean.
         for column in self.X.columns:
-            self.X[column] = self.X[column].fillna(nuts_aggregator_df[column], axis=0)
+            self.X.loc[:, column] = self.X[column].fillna(nuts_aggregator_df[column], axis=0)
         self.national_means = nuts_aggregator_df
         
         # if there are still nans, fill with the mean of the feature
