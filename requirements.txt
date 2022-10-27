@@ -1,0 +1,12 @@
+pandas
+sqlite3
+pyspark
+numpy
+matplotlib
+scikit-learn
+imblearn
+imblearn
+scipy
+seaborn
+dataframe-image
+openpyxl
