@@ -53,13 +53,13 @@ if __name__ == "__main__":
         "--start-date",
         type=str,
         default="1/2/2020",
-        help="starting date of the period of the considered pandemic data (format is month/day/year\n\t default=1/2/2020 )",
+        help="starting date of the period of the considered pandemic data (format is day/month/year\n\t default=1/2/2020 )",
     )
     parser.add_argument(
         "--end-date",
         type=str,
-        default="20/8/2020",
-        help="end date of the period of the considered pandemic data  (format is month/day/year\n\t default=20/8/2020 )",
+        default="31/12/2021",
+        help="end date of the period of the considered pandemic data  (format is day/month/year\n\t default=31/12/2021 )",
     )
  
 
