@@ -3,10 +3,22 @@ Multivariate analysis on the impact of socio-economic factors on the spread of c
 during the first and second wave of the epidemic.
 
 ## Setup
+To install the dependencies of the project
+```bash
+pip install -r requirements.txt
+```
+The dataset is already provided by the `covid_at_lombardy.sqlite` file, or it can be built from the original data sources by running
+```bash
+cd database_generator
+bash run_setup.sh
+mv covid_at_lombardy.sqlite ../
+cd ../
+```
+Note: the source eurostat data can be subject to future changes, hence there can be discrepancies if new data points are modified or added to the source eurostat data repositories of the variables considered in this analysis. 
+The last update date can be verified at the top quadrant of the each Eurostat data repository (e.g. see last update at, at the following [example eurostat dataset](https://ec.europa.eu/eurostat/databrowser/view/ei_bsco_m/default/table?lang=en))
 
-### Dataset
-
-### Run the experiments
+## Run the experiments
+Both experiments on the first and second wave can be easily run and analyzed by means of the provided jupyter notebooks, which can be found at the top level of this repository.
 
 ## Dataset
 The dataset has been built in order to assess which socio-economic features of the analyzed NUTS2 European regions intrinsically posed each at greater risk of epidemic spread.
