@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 The dataset is already provided by the `covid_at_lombardy.sqlite` file, or it can be built from the original data sources by running
 ```bash
-cd database_generator
+cd database
 bash run_setup.sh
 mv covid_at_lombardy.sqlite ../
 cd ../
